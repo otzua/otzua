@@ -1,181 +1,124 @@
-<!-- HEADER BANNER WITH ANIMATED JAPANESE AESTHETIC -->
+<!-- ===================================== -->
+<!-- SECTION 1 — HEADER BANNER -->
+<!-- Controls top banner -->
+<!-- ===================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=krish%20%E3%82%AF%E3%83%AA%E3%82%B7%E3%83%A5&fontSize=60&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=otzua%20%E2%80%A2%20%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%81%93&descAlignY=60&descSize=20&descColor=a855f7" width="100%"/>
-
-</div>
-
-<!-- ANIMATED TYPING SVG -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=26&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&width=700&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%E2%80%94+Welcome%2C+Traveller+%E2%80%94+%E3%82%88%E3%81%86%E3%81%93%E3%81%9D;Frontend+Developer+%7C+Web+Craftsman;Turning+ideas+into+pixel-perfect+realities;CSS+is+my+Katana+%E2%9A%94%EF%B8%8F;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Building+the+web%2C+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f0f0f,50:1a1a1a,100:222222&text=KRISH%20SINGH&fontSize=58&fontColor=f5f5f5&fontAlignY=36&desc=Full%20Stack%20Dev%20%E3%83%BB%20%E6%97%A5%E6%9C%AC%E8%AA%9E&descAlignY=60&descSize=20&descColor=d4d4d4&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-<!-- JAPANESE DIVIDER + INTRO -->
-<div align="center">
+<!-- ===================================== -->
+<!-- SECTION 2 — INTRO -->
+<!-- Intro text + coding GIF -->
+<!-- ===================================== -->
 
-```
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  　　　　道 • michi • The Path of Code　　　　
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<img align="right" width="330" src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwNzA0NjcsIm5iZiI6MTc3MzA3MDE2NywicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE1MjkyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhMzMwZDA5NDgxMWVhNzIzNmI3YjUyM2ViNDZlYTYwOWJlYzY1OGYxYTAwNzI5ZGYwOGViNTcyZTMwYTdjMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6TgdedK9diAgBZRcNl2HJi-ztK1RmTXHyxrIIR2I9wU"/>
 
-</div>
+### Hello, I'm Krish.
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+Developer based in **India** exploring **software engineering and full stack development**.
 
-### 🌸 こんにちは、世界 — Hello, World!
+I currently work with **HTML, CSS, and JavaScript**, and I’m expanding my knowledge step-by-step while building real projects.
 
-I'm **Krish** (`otzua`) — a **Frontend Developer** based in **India** 🇮🇳, wielding HTML, CSS, and JavaScript like a craftsman shapes wood.
-
-I believe code is *poetry in motion* — every pixel tells a story, every function breathes life into design.
-
-> *「千里の道も一歩から」*
-> *"Even a journey of a thousand miles begins with a single step."*
-
-- 🎯 &nbsp; Currently building: **Web interfaces that breathe**
-- 🌱 &nbsp; Exploring: **React**, **Node.js**, and beyond
-- ⚔️ &nbsp; My weapon of choice: **CSS animations & layout magic**
-- 🗻 &nbsp; Philosophy: **Clean code. Sharp design. Always learning.**
-- 🔗 &nbsp; Connect: [LinkedIn](https://www.linkedin.com/in/krish-singh-257a92371/) | [GitHub](https://github.com/otzua)
+Outside programming, I study **Japanese language at Hansraj College** and enjoy exploring technology across different cultures.
 
 <br clear="right"/>
 
 ---
 
-<!-- SKILLS SECTION WITH ANIMATED ICONS -->
-## 🗡️ 武器 — Arsenal of Skills
+<!-- ===================================== -->
+<!-- SECTION 3 — ABOUT ME -->
+<!-- Personal developer info -->
+<!-- ===================================== -->
+
+## About Me
+
+- Full stack developer in progress  
+- Building strong fundamentals in web development  
+- Currently focused on **HTML, CSS, JavaScript, and Git**  
+- Learning **Python** alongside web technologies  
+- Interested in clean UI, structured code, and practical projects  
+- Always learning something new
+
+---
+
+<!-- ===================================== -->
+<!-- SECTION 4 — TECH STACK -->
+<!-- Skills badges -->
+<!-- ===================================== -->
+
+## Tech Stack
 
 <div align="center">
 
-### ⛩️ Languages & Markup
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=e34f26)
 
-### 🌸 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572b6)
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f05032)
+
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff)
+
 
 </div>
 
 ---
 
-<!-- ANIMATED STATS SECTION -->
-## 📊 統計 — Battle Statistics
+<!-- ===================================== -->
+<!-- SECTION 5 — JAPANESE SECTION -->
+<!-- Japanese learning + gif -->
+<!-- ===================================== -->
+
+<img align="right" width="250" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif"/>
+
+## Japanese Language
+
+Currently studying **Japanese language at Hansraj College**.
+
+My interest in Japanese started from curiosity about language and culture, and it has grown into something I genuinely enjoy studying.
+
+Understanding another language helps me see technology and communication from a wider perspective.
+
+Japanese is still a learning journey for me, but it’s something I plan to keep improving alongside programming.
+
+<br clear="right"/>
+
+---
+
+<!-- ===================================== -->
+<!-- SECTION 6 — CONNECT -->
+<!-- Social links -->
+<!-- ===================================== -->
+
+## Connect
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=otzua&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otzua&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/krish-singh-257a92371/)
 
-</div>
+[![YouTube](https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@otzua)
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=otzua&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=c084fc&ring=a855f7&fire=c084fc&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=a855f7&dates=e2e8f0)](https://git.io/streak-stats)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/otzua)
 
 </div>
 
 ---
 
-<!-- PROJECTS SECTION -->
-## 🎴 作品集 — Selected Works
+<!-- ===================================== -->
+<!-- SECTION 7 — FOOTER -->
+<!-- Bottom banner -->
+<!-- ===================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:0f0f0f&height=120&section=footer"/>
 
 <div align="center">
 
-| Project | Description | Tech |
-|:---:|:---:|:---:|
-| ⚔️ [**zoro**](https://github.com/otzua/zoro) | The Swordsman's Code — A bold project | `Web` |
-| 🍊 [**sanji**](https://github.com/otzua/sanji) | The Cook's Creation — Styled with precision | `CSS` |
-| 🎓 [**tuition**](https://github.com/otzua/tuition) | Education platform — Knowledge flows | `HTML` |
-| 🏯 [**PRAROZ**](https://github.com/otzua/PRAROZ) | A world crafted in HTML | `HTML` |
-| 🍽️ [**Restaurant**](https://github.com/otzua/Restaurant) | Taste meets design | `CSS` |
-| 🖥️ [**NICT**](https://github.com/otzua/NICT) | Interface built with care | `CSS` |
+Learning, building, and improving one step at a time.
 
-</div>
-
----
-
-<!-- CONTRIBUTION GRAPH SNAKE -->
-## 🐍 貢献の蛇 — The Contribution Serpent
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-> *Replace the above with your own snake by setting up the [Platane/snk](https://github.com/Platane/snk) GitHub Action in your otzua/otzua repo.*
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 🌊 活動 — Activity Flow
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otzua&bg_color=0d0d0d&color=c084fc&line=a855f7&point=e2e8f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- PROFILE VIEWS + TROPHIES -->
-## 🏆 栄誉 — Trophies & Honours
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=otzua&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Profile Views](https://komarev.com/ghpvc/?username=otzua&color=a855f7&style=for-the-badge&label=VISITORS+訪問者)
-
-</div>
-
----
-
-<!-- CONNECT SECTION -->
-## 🌐 繋がり — Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-singh-257a92371/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/otzua)
-
-</div>
-
----
-
-<!-- ANIMATED QUOTE -->
-<div align="center">
-
-```
- ╔══════════════════════════════════════════════════════════╗
- ║  "コードは詩だ。美しく、論理的で、永遠に進化する。"        ║
- ║  "Code is poetry — beautiful, logical, ever-evolving."   ║
- ╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<div align="center">
-  <sub>⚔️ crafted with 魂 (soul) by <a href="https://github.com/otzua">otzua</a> ⚔️</sub>
 </div>
